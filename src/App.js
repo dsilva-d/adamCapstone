@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={transmission} alt="loading..."/>
+        <img src={transmission} style={{width:`100%`, height:`100%`}} alt="loading..." />
       </header>
     </div>
   );
