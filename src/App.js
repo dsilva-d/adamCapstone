@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import transmission from './transmission.gif'
 import './App.css';
 
